@@ -1,0 +1,10 @@
+.Main {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.Section {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 30px;
+}
